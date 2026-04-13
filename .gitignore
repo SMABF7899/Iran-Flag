@@ -1,2 +1,13 @@
 .idea
 test.py
+# Docker images
+*.tar
+*.tar.gz
+
+# Large files
+*.zip
+*.rar
+
+# Misc
+node_modules/
+.env
